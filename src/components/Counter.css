@@ -1,0 +1,28 @@
+.add,
+.sub,
+.mul,
+.divi {
+  background-color: orangered;
+  color: black;
+}
+
+.pm {
+  background-color: rgb(180, 176, 176);
+}
+
+.per {
+  background-color: rgb(180, 176, 176);
+}
+
+.clear {
+  background-color: rgb(180, 176, 176);
+}
+
+.equals {
+  background-color: orangered;
+  color: black;
+}
+
+.zero {
+  width: 50%;
+}

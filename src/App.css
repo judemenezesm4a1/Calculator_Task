@@ -1,0 +1,37 @@
+.result {
+  height: 60px;
+  background-color: gray;
+  width: 100%;
+}
+
+.result p {
+  font-size: 40px;
+  margin: 5px;
+}
+
+.button_key {
+  display: block;
+  background-color: black;
+}
+
+button {
+  width: 25%;
+  height: 70px;
+  font-size: 40px;
+  color: white;
+  background-color: gray;
+}
+
+.calculator-display {
+  max-width: 60%;
+  max-height: 60%;
+}
+
+@media only screen and (max-width: 640px) {
+  #sci {
+    display: none;
+  }
+  #display {
+    width: 50%;
+  }
+}
